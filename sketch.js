@@ -47,7 +47,7 @@ function setup() {
  	World.add(world, ground);
 
 
-	//Engine.run(engine);
+	Engine.run(engine);
   
 }
 
